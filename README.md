@@ -9,6 +9,6 @@ CRUD functionality using Classic ASP (vbscript) and XML file
 
 => You should also have the IIS (Internet Information Services) installed with ASP enabled.
 
-=> You will need to create a new website, for example, vbscriptAccess.
+=> You will need to create a new website, for example, vbscriptxml.
 
-=> If your operating system is 64bit, then for the Application Pool of the website created (vbscriptAccess), you will need to set "Enable 32 - Bit Applications" to true, under Advanced settings, for the website to run
+=> If your operating system is 64bit, then for the Application Pool of the website created (vbscriptxml), you will need to set "Enable 32 - Bit Applications" to true, under Advanced settings, for the website to run
